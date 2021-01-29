@@ -1,3 +1,10 @@
+
+##### Author : Amir Shokri
+##### github link : https://github.com/amirshnll/Audiology
+##### dataset link : http://archive.ics.uci.edu/ml/datasets/Audiology+%28Original%29
+##### email : amirsh.nll@gmail.com
+
+
 ```python
 import pandas as pd
 import matplotlib.pyplot as plt
